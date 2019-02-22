@@ -1,6 +1,6 @@
 {
   "name": "@pl/v8-profiler",
-  "version": "1.0.0",
+  "version": "6.0.2",
   "description": "node bindings for the v8 profiler",
   "homepage": "http://github.com/node-inspector/v8-profiler",
   "author": "Danny Coates <dannycoates@gmail.com>",
@@ -48,7 +48,7 @@
     "preinstall": "node -e 'process.exit(0)'",
     "install": "node-pre-gyp install --fallback-to-build",
     "rebuild": "node-pre-gyp rebuild",
-    "release": "node ./tools/release.js $@",
+    "release": "node ./tools/release.js 6.0.2 --build",
     "test": "mocha --debug"
   }
 }
