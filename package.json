@@ -1,8 +1,8 @@
 {
-  "name": "@pl/v8-profiler",
+  "name": "pl-v8-profiler",
   "version": "6.0.2",
   "description": "node bindings for the v8 profiler",
-  "homepage": "http://github.com/node-inspector/v8-profiler",
+  "homepage": "http://github.com/Paul-Long/v8-profiler",
   "author": "Danny Coates <dannycoates@gmail.com>",
   "repository": {
     "type": "git",
