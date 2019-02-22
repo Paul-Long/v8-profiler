@@ -6,7 +6,7 @@
   "author": "Danny Coates <dannycoates@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-inspector/v8-profiler.git"
+    "url": "git://github.com/Paul-Long/v8-profiler.git"
   },
   "contributors": [
     {
